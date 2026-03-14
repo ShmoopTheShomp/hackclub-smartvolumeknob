@@ -19,3 +19,4 @@ Here are some images of what we have made:
 <img width="1490" height="1128" alt="image" src="https://github.com/user-attachments/assets/d08aa54f-5a9a-43fd-a098-80a93d986a91" />
 <img width="1360" height="813" alt="image" src="https://github.com/user-attachments/assets/cadb2ec6-4f32-457d-9615-bee0d88436af" />
 
+[Here's a link to the OnShape File](https://cad.onshape.com/documents/1ccded675bc57de3815cd2ec/w/81d2dd870b59573a9ca0e169/e/c7404780592c0eccb50b931c?renderMode=0&uiState=69b5a1d315a9dbd4ceccce2b)
